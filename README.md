@@ -24,15 +24,9 @@
   <b>🚀 Building Scalable AI & Automation Solutions | Python, FastAPI, Cloud, MLOps</b>
 
   <p>
-    <a href="https://www.mazidulmurad.xyz/">
-      <img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/majidulislammurad/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:contact.majidul.islam@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+    <a href="https://www.mazidulmurad.xyz/"><img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/majidulislammurad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:contact.majidul.islam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
@@ -50,9 +44,9 @@
 
 - 🔭 Currently working as an <b>AI/ML Engineer</b> at Tuliptech Limited
 - 🧠 Ex-AI Programmer Data at Sysnova Information Systems Limited(Kazi farms Group)
-- 🤖 Passionate about AI, MLOps, Automation, and Cloud-based AI solutions
-- 🏆 Experienced in project management (monday.com, Jira), DevOps, and automation (Make, Zapier)
-- 💬 Ask me about <b>AI, ML, NLP, Generative AI, MLOps, Automation</b>
+- 🤖 Passionate about AI, MLOps, Automation and Cloud-based AI solutions
+- 🏆 Experienced in project management (monday.com, Jira), DevOps, and automation (N8N, Make, Zapier)
+- 💬 Ask me about <b>Agentic AI, ML, NLP, Generative AI, MLOps, Automation</b>
 
 <p align="left"></br>✨ Building AI Solutions Since 2022<br>📚 Currently learning: Generative AI, Multi Agent Collaboration, Cloud Computing, Vector Database, Advanced MLOps.<br>🎯 Goals: "Develop innovative AI solutions that enhance business💼 efficiency and drive real-world impact..🏢 "<br>🎮 Fun fact: <b>"Can debug code while dreaming."</b>
 
@@ -63,16 +57,6 @@
   <a href="https://www.mazidulmurad.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-mazidulmurad.xyz-1abc9c?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
   </a>
-</p>
-
----
-
-## 🌐 Portfolio
-
-Check out my full portfolio, projects, and more at:
-
-<p align="center">
-  <a href="https://www.mazidulmurad.xyz/" target="_blank"><b>www.mazidulmurad.xyz</b></a>
 </p>
 
 ---
@@ -158,16 +142,6 @@ Check out my full portfolio, projects, and more at:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="40"/>
 </div>
 
-### Automation
-<div align="left">
-  <img src="https://avatars.githubusercontent.com/u/25104814?s=200&v=4" alt="n8n" height="40"/>
-  <img width="12" />
-  <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1486737816/ngsb1ippd5bkmzaybw0o.png" alt="Make.com" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" alt="Zapier" height="40"/>
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/8671205?s=200&v=4" alt="UiPath" height="40"/>
-</div>
 
 ### Project Management & Other Tools
 <div align="left">
@@ -258,18 +232,6 @@ Check out my full portfolio, projects, and more at:
 
 ---
 
-## 🕹️ Pacman Contribution Animation
-
-![Pacman animation](https://raw.githubusercontent.com/Majidul17068/Majidul17068/output/dist/pacman-contribution-graph.svg)
-
----
-
-## 🐍 Snake Contribution Animation
-
-![Snake animation](https://raw.githubusercontent.com/Majidul17068/Majidul17068/output/github-contribution-grid-snake.svg)
-
----
-
 <h2 align="left">🕵 Looking for my 📞📧☎️ </h2>
 
 <br clear="both">
@@ -277,18 +239,10 @@ Check out my full portfolio, projects, and more at:
 ## 📫 Contact
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/majidulislammurad/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:contact.majidul.islam@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.mazidulmurad.xyz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=1abc9c&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo"  />
-  </a>
-  <a href="https://github.com/Majidul17068" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/majidulislammurad/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
+  <a href="mailto:contact.majidul.islam@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
+  <a href="https://www.mazidulmurad.xyz/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=1abc9c&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo"  /></a>
+  <a href="https://github.com/Majidul17068" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  /></a>
 </div>
 
 ###
