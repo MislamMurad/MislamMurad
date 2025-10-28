@@ -21,7 +21,7 @@
     </a>
   </p>
 
-  <b>🚀 Building Scalable AI & Automation Solutions | Python, FastAPI, Cloud, MLOps</b>
+  <b>🚀 Building Scalable Agentic AI Solutions &  Model Fine tuning | Python, FastAPI, Cloud, MLOps</b>
 
   <p>
     <a href="https://www.mazidulmurad.xyz/"><img src="https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -40,7 +40,7 @@
 - 🏆 Experienced in project management (monday.com, Jira), DevOps, and automation (N8N, Make, Zapier)
 - 💬 Ask me about <b>Agentic AI, ML, NLP, Generative AI, MLOps, Automation</b>
 
-<p align="left"></br>✨ Building AI Solutions Since 2022<br>📚 Currently learning: Generative AI, Multi Agent Collaboration, Cloud Computing, Vector Database, Advanced MLOps.<br>🎯 Goals: "Develop innovative AI solutions that enhance business💼 efficiency and drive real-world impact..🏢 "<br>🎮 Fun fact: <b>"Can debug code while dreaming."</b>
+<p align="left"></br>✨ Building AI Solutions Since 2022<br>📚 Currently learning: Generative AI, Multi Agent Collaboration, Cloud Computing, Vector Database, Advanced MLOps.<br>🎯 Goals: "Develop innovative AI solutions that enhance business efficiency and drive real-world impact. "<br>🎮 Fun fact: <b>"Can debug code while dreaming."</b>
 
 ---
 
