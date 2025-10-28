@@ -201,7 +201,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Majidul17068&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak stats"  />
+  <img src="https://streak-stats.demolab.com/?user=Majidul17068&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak stats"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Majidul17068&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -220,9 +220,6 @@
 
 ---
 
-<h2 align="left">🕵 Looking for my 📞📧☎️ </h2>
-
-<br clear="both">
 
 ## 📫 Contact
 
