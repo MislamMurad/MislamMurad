@@ -30,14 +30,6 @@
   </p>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Majidul17068/count.svg?"  />
-</div>
-
-###
-
 ---
 
 ## 🧑‍💻 About Me
@@ -52,16 +44,12 @@
 
 ---
 
-<!-- Portfolio Banner -->
+
 <p align="center">
   <a href="https://www.mazidulmurad.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-mazidulmurad.xyz-1abc9c?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
   </a>
 </p>
-
----
-
-## 🚀 Skills & Tools
 
 <h2 align="left">🧑‍💻️ Language and tools proficiency 🛠</h2>
 
