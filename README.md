@@ -201,9 +201,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Majidul17068&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="150" alt="streak stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Majidul17068&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Majidul17068&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Majidul17068&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
