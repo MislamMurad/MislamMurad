@@ -235,15 +235,7 @@
   <a href="https://github.com/Majidul17068" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  /></a>
 </div>
 
-###
 
-<p align="left">
-  <b>📧 Email:</b> contact.majidul.islam@gmail.com<br>
-  <b>📱 Phone:</b> +8801521498321<br>
-  <b>🔗 GitHub:</b> <a href="https://github.com/Majidul17068">Majidul17068</a><br>
-  <b>💼 LinkedIn:</b> <a href="https://www.linkedin.com/in/majidulislammurad/">Majidul Islam</a><br>
-  <b>🌐 Portfolio:</b> <a href="https://www.mazidulmurad.xyz/">www.mazidulmurad.xyz</a>
-</p>
 
 ---
 
