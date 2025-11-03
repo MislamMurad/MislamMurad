@@ -195,7 +195,7 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xreWplMnVjemZkcW5mY2tjdGFzM2JpNGx2OXlvMzRsa2F2bmIxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XjlNyeZp5lDri/giphy.gif"  />
+  <img height="350" src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif"  />
 </div>
 
 <div align="center">
