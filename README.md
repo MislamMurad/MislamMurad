@@ -195,7 +195,7 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"  />
+  <img height="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82"  />
 </div>
 
 <div align="center">
